@@ -9,7 +9,7 @@ Contact: via twitter: @kikolobo or XOJO Forums @(Francisco Lobo)
 Website: http://www.kikolobo.com
 Version : 0.1 (Beta) [July 29th 2013]
 
-|========================================[RESTRICTIONS]=========================================|
+|=========================[RESTRICTIONS]==========================|
 | This piece of code is free as free speech. The only condition for use is that you DON'T repackage this code in whole or in part and sell it. 
 | Also welcomed but not mandatory are credits in your software about page: 
 |                     "WEB Notification View based on KLNotificationView for XOJO by Francisco Lobo de la Garza"
@@ -20,7 +20,7 @@ Version : 0.1 (Beta) [July 29th 2013]
 |
 |
 
-|======================================[REVISION HISTORY]========================================|
+|=======================[REVISION HISTORY]=========================|
 | Version 0.1 (Beta)  -  July 29th 2013
 |   - Initial Release
 |
