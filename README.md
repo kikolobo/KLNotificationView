@@ -5,12 +5,16 @@ KLNotificationView
 
 A simple to implement and use notification view for web applications written for the Web Xojo Target.
 
-Written by : Francisco Lobo de la Garza 
-From: Monterrey N.L Mexico
-Contact: via twitter: @kikolobo or XOJO Forums @(Francisco Lobo)
-Website: http://www.kikolobo.com
-Version : 0.1 (Beta) [July 29th 2013]
 
+**Written by :** Francisco Lobo de la Garza  
+**From:** Monterrey N.L Mexico  
+**Contact:** Twitter: [@KikoLobo](http://twitter.com/KikoLobo) or at XOJO Forums (Francisco Lobo)  
+**Website:** [http://www.kikolobo.com](http://www.kikolobo.com)  
+**Version:** 0.1 (Beta) [July 29th 2013]  
+
+
+
+  
 ####HOW TO USE####
   - Copy the folder named KLNotificationView from the sample project to your project.
   - Add the KLNotificationView class to your WebPage/WebContainer
