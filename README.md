@@ -1,7 +1,8 @@
 KLNotificationView
 ==================
 
-![ScreenShot](https://dl.dropboxusercontent.com/u/3785834/KLNotificationViewSS.png)
+![ScreenShot](http://s11.postimg.org/yppurjb4z/KLNotification_View_SS.png)  
+_Alternate screenshot url: [here](https://dl.dropboxusercontent.com/u/3785834/KLNotificationViewSS.png)_  
 
 A simple to implement and use notification view for web applications written for the Web Xojo Target.
 
