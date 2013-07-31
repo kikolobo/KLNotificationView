@@ -1,18 +1,12 @@
-
 Assets/.DS_Store
 
 .DS_Store
 
 NotificationPanel.debug/NotificationPanel.debug Libs/rbframework.dylib
 
+NotificationPanel.debug/
+
 NotificationPanel.debug/NotificationPanel.debug
-
-NotificationPanel.debug/NotificationPanel.debug Libs/RBCrypto.rbx_0.dylib
-
-NotificationPanel.debug/NotificationPanel.debug Libs/RBGZip.rbx_0.dylib
-
-NotificationPanel.debug/NotificationPanel.debug Libs/RBInternetEncodings.rbx_0.dylib
 
 *.dylib
 
-*.strings
