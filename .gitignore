@@ -10,3 +10,4 @@ NotificationPanel.debug/NotificationPanel.debug
 
 *.dylib
 
+*.xojo_uistate
